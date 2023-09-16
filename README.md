@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @humbleigor
+- 👀 I’m interested in coding, mechanical stuff and sports
+- 🌱 I’m currently learning c++ and js
+- 📫 How to reach me ...
